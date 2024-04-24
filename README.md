@@ -3,7 +3,10 @@
 __Used Tools:__
 
 <a href="https://github.com/keydet89/RegRipper3.0">RegRipper</a>
-<img src="regripper.png"  width="50">
+<p>
+<img src="regripper.png" width="350">
+</p>
+
 <a href="https://www.autopsy.com/download/">autopsy</a>
 
 <a href="https://github.com/volatilityfoundation/volatility3">volatility</a><br>
