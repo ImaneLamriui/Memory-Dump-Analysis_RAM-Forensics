@@ -80,6 +80,14 @@ __More Tools:__
 
 <a href="https://www.abuseipdb.com/">AbuseIPdb</a> is an advanced malware analysis.
 
+<p align="center">
+  
+<img src="AbuselIPDB.png" width="350">
+
 <a href="https://gchq.github.io/CyberChef/">CyberChef</a>is an indispensable tool, streamlining data manipulation and analysis tasks, and serving as an invaluable asset for professionals navigating diverse datasets and formats.
+
+<p align="center"> Flag 🚩</p>
+  
+<p align="center"><img src="MasterChef-tool.png" width="350">
 
 
