@@ -27,6 +27,9 @@ They play a crucial role in guiding plugins to identify and extract relevant inf
 
 <p align="center">
 <img src="keywordLists.png" width="350">
+  
+<img src="html.png" width="350">
+
 
 
 In RegRipper, UTC settings pertain to the configuration parameters stored in the Windows Registry that govern the system's handling of Coordinated Universal Time (UTC). These settings encompass various aspects related to time management on the system, including time zone information, time synchronization mechanisms, and adjustments for daylight saving time.
