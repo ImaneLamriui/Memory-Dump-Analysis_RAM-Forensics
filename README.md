@@ -48,7 +48,7 @@ In __Autopsy__, UTC settings pertain to the configuration parameters stored in t
 ### How-to-use-volatility?
 <p align="center">Click here👇
 
-<a href="https://www.varonis.com/blog/how-to-use-volatility"><p align="center"><img src="Volatility-Icon-3.png" width="350"></a>
+<a href="https://www.varonis.com/blog/how-to-use-volatility"><p align="center"><img src="Volatility-Icon-3.png" width="200" height="200"></a>
 
 __Disk images💽__, also known as __"raw images"__ are exact copies of the entire contents of a hard disk, including the operating system files, installed programs, and user data. __For example, the file "WIN-LQS146OE2S1-20201027-142607.raw"__ appears to be a disk image or snapshot of a Windows operating system taken on a specific date: October 27, 2020, at 14:26:07. The file naming convention suggests that it was generated automatically and may contain relevant information about the operating system, configuration, files, and data stored on the disk at the time of capture.
 
@@ -77,6 +77,8 @@ __More Tools:__
 
 <a href="https://www.joesandbox.com/">Joe Sandbox</a> runs on its own cloud infrastructure, using its own servers and systems to perform malware analyses in a virtualized manner. Users don't need to install anything on their own devices; they simply access the platform through a web browser and upload the files they want to analyze. Joe Sandbox's infrastructure takes care of executing these files securely in isolated virtual environments to prevent any potential harm to the user's system.
 
-<a href="https://www.abuseipdb.com/">Joe Sandbox</a>
+<a href="https://www.abuseipdb.com/">AbuseIPdb</a> is an advanced malware analysis.
+
+<a href="https://gchq.github.io/CyberChef/">CyberChef</a>is an indispensable tool, streamlining data manipulation and analysis tasks, and serving as an invaluable asset for professionals navigating diverse datasets and formats.
 
 
