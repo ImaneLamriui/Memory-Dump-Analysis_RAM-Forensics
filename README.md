@@ -13,7 +13,7 @@ We need to  need to upload or provide the hive file as input for analysis use Re
 <p align="center">
 <img src="regripper.png" width="350">
 
-<a href="https://www.autopsy.com/download/">autopsy</a>
+<a href="https://www.autopsy.com/download/">Autopsy</a>
 
 keywords in __Autopsy__ refer to specific strings or patterns that are used to identify relevant information within the Windows Registry. These keywords are typically used in the context of plugins, which are small scripts or routines designed to extract specific types of information from Registry hive files.
 
@@ -74,7 +74,7 @@ __python2 vol.py -f /home/kali/Downloads/06-export/WIN-LQS146OE2S1-20201027-1426
 
 __More Tools:__
 
-<a href="https://app.any.run/submissions/">any.run App</a> uses its own virtualization infrastructure to execute and analyze malware samples securely and comprehensively. The platform employs its own set of servers and specialized software to create isolated virtual environments where malware samples can be executed and monitored without compromising the security of users' systems. These virtual environments are designed to emulate operating systems and provide a controlled environment.
+<a href="https://app.any.run/submissions/">Any.Run App</a> uses its own virtualization infrastructure to execute and analyze malware samples securely and comprehensively. The platform employs its own set of servers and specialized software to create isolated virtual environments where malware samples can be executed and monitored without compromising the security of users' systems. These virtual environments are designed to emulate operating systems and provide a controlled environment.
 
 <a href="https://www.joesandbox.com/">Joe Sandbox</a> runs on its own cloud infrastructure, using its own servers and systems to perform malware analyses in a virtualized manner. Users don't need to install anything on their own devices; they simply access the platform through a web browser and upload the files they want to analyze. Joe Sandbox's infrastructure takes care of executing these files securely in isolated virtual environments to prevent any potential harm to the user's system.
 
