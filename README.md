@@ -13,15 +13,16 @@ We need to  need to upload or provide the hive file as input for analysis use Re
 <p align="center">
 <img src="regripper.png" width="350">
 
-keywords refer to specific strings or patterns that are used to identify relevant information within the Windows Registry. These keywords are typically used in the context of plugins, which are small scripts or routines designed to extract specific types of information from Registry hive files.
+<a href="https://www.autopsy.com/download/">autopsy</a>
+
+keywords in __Autopsy__ refer to specific strings or patterns that are used to identify relevant information within the Windows Registry. These keywords are typically used in the context of plugins, which are small scripts or routines designed to extract specific types of information from Registry hive files.
 
 Each plugin is designed to target specific types of information within the Registry, and keywords are used to help identify relevant data for extraction and analysis.
 
 <p align="center">
 <img src="KeyWords-types.png" width="350">
 
-
-Keyword lists in RegRipper are curated collections of terms or patterns that plugins use to identify relevant information within Windows Registry hive files.
+Keyword lists in __Autopsy__ are curated collections of terms or patterns that plugins use to identify relevant information within Windows Registry hive files.
 
 They play a crucial role in guiding plugins to identify and extract relevant information from Windows Registry hive files, offering both predefined options and customization capabilities to suit the needs of forensic analysis tasks.
 
@@ -30,16 +31,11 @@ They play a crucial role in guiding plugins to identify and extract relevant inf
   
 <img src="html.png" width="350">
 
-
-
-In RegRipper, UTC settings pertain to the configuration parameters stored in the Windows Registry that govern the system's handling of Coordinated Universal Time (UTC). These settings encompass various aspects related to time management on the system, including time zone information, time synchronization mechanisms, and adjustments for daylight saving time.
+In __Autopsy__, UTC settings pertain to the configuration parameters stored in the Windows Registry that govern the system's handling of Coordinated Universal Time (UTC). These settings encompass various aspects related to time management on the system, including time zone information, time synchronization mechanisms, and adjustments for daylight saving time.
 
 <p align="center">
 <img src="timeConfig-UTC.png" width="350">
-
-
-<a href="https://www.autopsy.com/download/">autopsy</a>
-
+  
 <a href="https://github.com/volatilityfoundation/volatility3">volatility</a><br>
 
 __More Tools:__
