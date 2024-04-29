@@ -4,7 +4,7 @@ __Used Tools:__
 
 <a href="https://github.com/keydet89/RegRipper3.0">RegRipper</a>
 
-We need to  need to upload or provide the hive file as input for analysis use RegRipper to analyze it and generate a report file containing the extracted information:
+We need to upload or provide the hive file as input for analysis use RegRipper to analyze it and generate a report file containing the extracted information:
 
 ###### Hive files extracted from a live system or a forensic image wiches will be analyzed by RegRipper to extract information about system configuration, user activity, installed software, and more.
 
@@ -84,7 +84,7 @@ __More Tools:__
   
 <img src="AbuselIPDB.png" width="350">
 
-<a href="https://gchq.github.io/CyberChef/">CyberChef</a>is an indispensable tool, streamlining data manipulation and analysis tasks, and serving as an invaluable asset for professionals navigating diverse datasets and formats.
+<a href="https://gchq.github.io/CyberChef/">CyberChef</a> is an indispensable tool, streamlining data manipulation and analysis tasks, and serving as an invaluable asset for professionals navigating diverse datasets and formats.
 
 <p align="center"> Flag 🚩</p>
   
