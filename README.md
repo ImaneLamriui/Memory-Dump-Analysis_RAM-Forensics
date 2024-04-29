@@ -44,12 +44,12 @@ __More Tools:__
 
 <p align="center">Click here👇
 
-<a href="https://github.com/volatilityfoundation/volatility3"><p align="center"><img src="volatility_banner.png" width="350"></a><br>
+<p align="center"><a href="https://github.com/volatilityfoundation/volatility3"><img src="volatility_banner.png" width="350"></a>
 
 ###### How-to-use-volatility?
 <p align="center">Click here👇
 
-<a href="https://www.varonis.com/blog/how-to-use-volatility"><p align="center"><img src="Volatility-Icon-3.png" width="200" height="200"></a>
+<p align="center"><a href="https://www.varonis.com/blog/how-to-use-volatility"><img src="Volatility-Icon-3.png" width="200" height="200"></a>
 
 __Disk images💽__, also known as __"raw images"__ are exact copies of the entire contents of a hard disk, including the operating system files, installed programs, and user data. __For example, the file "WIN-LQS146OE2S1-20201027-142607.raw"__ appears to be a disk image or snapshot of a Windows operating system taken on a specific date: October 27, 2020, at 14:26:07. The file naming convention suggests that it was generated automatically and may contain relevant information about the operating system, configuration, files, and data stored on the disk at the time of capture.
 
