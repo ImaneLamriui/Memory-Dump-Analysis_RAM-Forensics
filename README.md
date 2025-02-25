@@ -1,4 +1,4 @@
-#### challenge statement https://ctf.unizar.es/agujas_pajares/home
+#### challenge statement: https://ctf.unizar.es/agujas_pajares/home
 #### More challenges: https://ctf.unizar.es/
 __Used Tools:__
 
